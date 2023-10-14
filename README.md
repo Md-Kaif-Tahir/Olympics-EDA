@@ -1,6 +1,7 @@
 # Olympics EDA Web Application
 
-![premium_photo-1666107278222-862cd7890c5e](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/4e318210-5ac8-4c33-a5fc-8e477ab17079)
+![image](https://github.com/Md-Kaif-Tahir/Olympics-EDA/assets/110182266/60539580-d9e3-485b-94d4-553a6eb2579b)
+
 
 Overview
 - Welcome to the Olympics Exploratory Data Analysis (EDA) Web Application! This application provides a comprehensive analysis of Olympic Games data, offering insights into medal tallies, overall trends, country-wise performances, and athlete-wise achievements.
