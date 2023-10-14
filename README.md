@@ -11,7 +11,7 @@ Overview
 - View the medal count for each country, filtered by year.
 - Customize your view by selecting a specific country and/or year.
 - Gain insights into a country's overall performance or focus on a specific Olympic year.
-2.Overall Analysis:
+2. Overall Analysis:
 - Explore key statistics, including the number of editions, host cities, sports, events, athletes, and participating nations.
 - Visualize the growth of participating nations, events, and athletes over the years through interactive line charts.
 - Delve into a heatmap showcasing the number of events across various sports over time.
@@ -32,15 +32,32 @@ Overview
 
 ## Table of Contents
 
+## Table of Contents
+
 - [Methods](#methods)
 - [Tech Stack](#tech-stack)
 - [Quick Glance at the Result](#quick-glance-at-the-result)
-- [Lessons Learned and Recommendations](#lessons-learned-and-recommendations)
-- [Limitations and What Can Be Improved](#limitations-and-what-can-be-improved)
-- [Run Locally](#run-locally)
+  - [1. Medal Tally](#1-medal-tally)
+  - [2. Overall Analysis](#2-overall-analysis)
+    - [Growth of Participating Nations](#growth-of-participating-nations)
+    - [Number of Events Over Time](#number-of-events-over-time)
+    - [Number of Athletes Over Time](#number-of-athletes-over-time)
+    - [Number of Events for Each Sport](#number-of-events-for-each-sport)
+    - [Top-Performing Athletes](#top-performing-athletes)
+  - [3. Country-wise Analysis](#3-country-wise-analysis)
+    - [USA Medal Tally Over the Years](#usa-medal-tally-over-the-years)
+    - [Excellence in Sports Over Time (USA)](#excellence-in-sports-over-time-usa)
+    - [Top 10 Athletes of USA](#top-10-athletes-of-usa)
+  - [4. Athlete-wise Analysis](#4-athlete-wise-analysis)
+    - [Excellence in Sports Over Time (Athletes)](#excellence-in-sports-over-time-athletes)
+    - [Relationship Between Weight and Height](#relationship-between-weight-and-height)
+    - [Gender-wise Participation Over the Years](#gender-wise-participation-over-the-years)
+- [Lesson-learned](#Lessons-Learned)
+- [Authors](#authors)
 - [Explore the Notebook](#explore-the-notebook)
 - [App Deployed on Streamlit](#app-deployed-on-streamlit)
 - [Blog Post](#blog-post)
+
 
 ## Methods
 
@@ -55,8 +72,6 @@ Overview
 - Streamlit (interface for the Web Application)
 
 ## Quick Glance at the Result
-
-a brief summary of the Web Application.
 
 ### 1. Medal Tally 
 ![image](https://github.com/Md-Kaif-Tahir/Olympics-EDA/assets/110182266/17ca4397-6829-4112-91ec-d624386aea59)
@@ -165,15 +180,11 @@ a brief summary of the Web Application.
 
 ## Lessons Learned 
 
--	A substantial proportion of laptops, totalling around 1000 units, do not feature touchscreen functionality, while a more modest count of 200 laptops incorporates this touch-enabled capability.
--	Intel Core i7 is the most dominant, featured in about 500 laptops, closely followed by i5 with 400. Intel Core i3 has a similar count around 150, while AMD processors are less represented, with fewer than 100 laptops.
--	AMD graphics cards stand out as the most budget-friendly option in the market. They are known for providing a good budget experience. However, it's worth mentioning that laptops with AMD processors are not as common; the market is largely dominated by Intel and Nvidia. AMD tends to have a stronger presence in the desktop market.
-
-## Limitations and What Can Be Improved
-
-- The dataset's small size, approximately 1000 rows, resulted in notable variance, particularly in CPU and GPU models
-- To mitigate this, grouping the rows by brand instead of model was implemented; however, a larger dataset would have allowed for a more granular analysis at the model level.
-- Hyperparameter tuning
+- The Olympic Games are fascinating and multifaceted, involving history, geography, culture, politics, sports, and statistics.
+- Over time, they have evolved to become more popular, diverse, inclusive, and competitive across regions, countries, sports, and athletes.
+- Challenges like wars, boycotts, pandemics, scandals, and controversies have been part of the Olympic Games' history.
+- Various sources, including tables, graphs, maps, and websites, provide information and analysis, aiding in understanding and comparing Olympic Games data and trends.
+- The Olympic Games are rich in stories and achievements, showcasing successful athletes, exciting events, memorable moments, and inspiring values.
 
 ## Explore the Notebook
 
