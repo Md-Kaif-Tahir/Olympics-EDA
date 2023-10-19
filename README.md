@@ -188,11 +188,8 @@ Overview
 
 ## Explore the Notebook
 
-[Link to Kaggle Dataset](https://www.kaggle.com/datasets/muhammadusman996/ozlaptop)
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/laptop-price-in-india)
 
-## App Deployed on Streamlit
-
-![ezgif com-video-to-gif](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/4c6a3684-0434-458c-a530-778b41a1c780)
 
 ## Blog Post
 
